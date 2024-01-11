@@ -1,0 +1,17 @@
+/* Add this CSS code to your stylesheet or component */
+
+/* Style for the green dot */
+.success-dot {
+  width: 10px;
+  height: 10px;
+  background-color: #00cc00; /* Green color */
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px; /* Adjust margin as needed */
+}
+
+/* Style for the text "Successful" */
+.success-text {
+  display: inline-block;
+  color: #00cc00; /* Match the green color of the dot */
+}
